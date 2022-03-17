@@ -55,11 +55,11 @@ Here, I pursue to provide bioinformatic aid with the immunopeptidome analysis an
 
 <!-- ### :octocat: My latest contributions on GitHub -->
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#190](https://github.com/nf-core/mhcquant/issues/190) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
-2. ❗️ Opened issue [#146](https://github.com/nf-core/epitopeprediction/issues/146) in [nf-core/epitopeprediction](https://github.com/nf-core/epitopeprediction)
-3. ❗️ Opened issue [#143](https://github.com/nf-core/epitopeprediction/issues/143) in [nf-core/epitopeprediction](https://github.com/nf-core/epitopeprediction)
-4. ❗️ Opened issue [#142](https://github.com/nf-core/epitopeprediction/issues/142) in [nf-core/epitopeprediction](https://github.com/nf-core/epitopeprediction)
-5. 🎉 Merged PR [#185](https://github.com/nf-core/mhcquant/pull/185) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
+1. ❌ Closed PR [#2](https://github.com/marissaDubbelaar/mhcquant/pull/2) in [marissaDubbelaar/mhcquant](https://github.com/marissaDubbelaar/mhcquant)
+2. 💪 Opened PR [#2](https://github.com/marissaDubbelaar/mhcquant/pull/2) in [marissaDubbelaar/mhcquant](https://github.com/marissaDubbelaar/mhcquant)
+3. 🎉 Merged PR [#1](https://github.com/marissaDubbelaar/mhcquant/pull/1) in [marissaDubbelaar/mhcquant](https://github.com/marissaDubbelaar/mhcquant)
+4. 💪 Opened PR [#1](https://github.com/marissaDubbelaar/mhcquant/pull/1) in [marissaDubbelaar/mhcquant](https://github.com/marissaDubbelaar/mhcquant)
+5. ❗️ Opened issue [#190](https://github.com/nf-core/mhcquant/issues/190) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
 <!--END_SECTION:activity-->
 
 <!-- [![GitHub metrics](https://metrics.lecoq.io/marissadubbelaar)](https://metrics.lecoq.io/marissadubbelaar) -->
