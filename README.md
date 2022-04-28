@@ -55,11 +55,11 @@ Here, I pursue to provide bioinformatic aid with the immunopeptidome analysis an
 
 <!-- ### :octocat: My latest contributions on GitHub -->
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#190](https://github.com/nf-core/mhcquant/issues/190) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
-2. ❗️ Closed issue [#199](https://github.com/nf-core/mhcquant/issues/199) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
-3. ❗️ Closed issue [#193](https://github.com/nf-core/mhcquant/issues/193) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
-4. ❗️ Closed issue [#192](https://github.com/nf-core/mhcquant/issues/192) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
-5. ❗️ Closed issue [#191](https://github.com/nf-core/mhcquant/issues/191) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
+1. 🗣 Commented on [#166](https://github.com/nf-core/airrflow/issues/166) in [nf-core/airrflow](https://github.com/nf-core/airrflow)
+2. ❗️ Closed issue [#190](https://github.com/nf-core/mhcquant/issues/190) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
+3. ❗️ Closed issue [#199](https://github.com/nf-core/mhcquant/issues/199) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
+4. ❗️ Closed issue [#193](https://github.com/nf-core/mhcquant/issues/193) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
+5. ❗️ Closed issue [#192](https://github.com/nf-core/mhcquant/issues/192) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
 <!--END_SECTION:activity-->
 
 <!-- [![GitHub metrics](https://metrics.lecoq.io/marissadubbelaar)](https://metrics.lecoq.io/marissadubbelaar) -->
