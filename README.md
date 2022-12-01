@@ -55,11 +55,11 @@ Here, I pursue to provide bioinformatic aid with the immunopeptidome analysis an
 
 <!-- ### :octocat: My latest contributions on GitHub -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#244](https://github.com/nf-core/mhcquant/pull/244) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
-2. 💪 Opened PR [#243](https://github.com/nf-core/mhcquant/pull/243) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
-3. 🎉 Merged PR [#242](https://github.com/nf-core/mhcquant/pull/242) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
-4. 💪 Opened PR [#242](https://github.com/nf-core/mhcquant/pull/242) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
-5. ❗️ Opened issue [#241](https://github.com/nf-core/mhcquant/issues/241) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
+1. 🗣 Commented on [#243](https://github.com/nf-core/mhcquant/issues/243) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
+2. 🎉 Merged PR [#244](https://github.com/nf-core/mhcquant/pull/244) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
+3. 💪 Opened PR [#244](https://github.com/nf-core/mhcquant/pull/244) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
+4. 💪 Opened PR [#243](https://github.com/nf-core/mhcquant/pull/243) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
+5. 🎉 Merged PR [#242](https://github.com/nf-core/mhcquant/pull/242) in [nf-core/mhcquant](https://github.com/nf-core/mhcquant)
 <!--END_SECTION:activity-->
 
 <!-- [![GitHub metrics](https://metrics.lecoq.io/marissadubbelaar)](https://metrics.lecoq.io/marissadubbelaar) -->
