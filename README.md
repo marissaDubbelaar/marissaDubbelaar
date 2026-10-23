@@ -1,6 +1,6 @@
-[![Header](https://github.com/marissaDubbelaar/marissaDubbelaar/blob/7b4248bc8c1b1a943e1dc1f7c850a32b06117f32/content/header.gif)](.)
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30&height=120&section=header&text=Dr.%20Ing.%20Marissa%20Dubbelaar&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+</div>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Marissa! 🙂 </h1>
 
@@ -10,10 +10,10 @@
 </p>
 
 <div align="center">
-  
-<a href="https://www.linkedin.com/in/marissadubbelaar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="https://www.researchgate.net/profile/Marissa-Dubbelaar"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"/></a>
-<a href="https://github.com/marissaDubbelaar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marissadubbelaar/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marissa-Dubbelaar)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=MfcO5oMAAAAJ&hl=en)
 
 </div>
 
@@ -21,13 +21,18 @@
 
 ### 👩‍💻 About Me
 
-I am a bioinformatics leader with over 10 years of experience spanning immunopeptidomics, genomics, epigenomics, and transcriptomics. I thrive on complex biological challenges and complex dataset integration. 
+I am a bioinformatics leader with over 10 years of experience spanning immunopeptidomics, genomics, epigenomics, and transcriptomics. I thrive on complex biological challenges and complex dataset integration.
 
-* **Current Role:** Bioinformatics Specialist at **ImmuneSpec**, leading neo-antigen detection pipelines and bioinformatics infrastructure.
-* **Previous Leadership:** Lead Bioinformatics / Team Lead in the Dept. of Peptide-based Immunotherapy and Quantitative Biology Center (QBiC) at the **University of Tübingen**
-* **Background:** Completed a 4-year Ph.D. at the **University of Groningen** focusing on the microglia transcriptome, alongside international research experience.
+I currently work as a Bioinformatics Specialist at **ImmuneSpec**, leading neo-antigen detection pipelines and bioinformatics infrastructure. Before that, I led computational teams at the **University of Tübingen** (Dept. of Peptide-based Immunotherapy and QBiC), and I did my Ph.D. on the microglia transcriptome at the **University of Groningen**.
 
-Whether developing scalable Nextflow pipelines, mass-spectrometry-based immunopeptidomics, multi-omics analyses, or mentoring researchers, I am dedicated to open science and reproducible computational solutions. Feel free to reach out if you'd like to collaborate or connect!
+Whether it's scalable Nextflow pipelines, mass-spectrometry-based immunopeptidomics, multi-omics analysis, or mentoring researchers, I care about open science and reproducible computational solutions. Feel free to reach out if you'd like to collaborate or connect!
+
+---
+
+### 🔗 Work I'm proud of
+
+- [nf-core/mhcquant](https://github.com/nf-core/mhcquant) and [nf-core/epitopeprediction](https://github.com/nf-core/epitopeprediction): open pipelines for immunopeptidomics that I helped develop and maintain
+- [Publications on Google Scholar](https://scholar.google.com/citations?user=MfcO5oMAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Marissa-Dubbelaar)
 
 ---
 
