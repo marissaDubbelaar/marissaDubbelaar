@@ -5,7 +5,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Marissa! 🙂 </h1>
 
 <p align="center">
-  <b>Bioinformatics Leader & Immunopeptidomics Specialist</b><br>
+  <b>Bioinformatics Engineer & Immunopeptidomics Specialist</b><br>
   <i>Empowering immunotherapy research through reproducible pipelines, FAIR data workflows, and multi-omics analysis.</i>
 </p>
 
